@@ -1,0 +1,44 @@
+{
+    "title": "Login",
+    "title_color": "#151515",
+    "logo": "http://www.technospurs.com/img/logo.svg",
+    "logo_visible": true,
+    "background_color": "#00CC83",
+    "box_color": "#FFFFFF",
+    "box_type_roundrect": true,
+    "text": "#151515",
+    "placeholder_color": "#151515",
+    "username": "Username",
+    "password": "Password",
+    "placeholder_name": "Username",
+    "placeholder_password": "Password",
+    "button_text_color": "#FFFFFF",
+    "button_color": "#4B7BEC",
+    "button_text": "Login",
+    "name": "userList",
+    "user": [{
+        "email": "siva@gmail.com",
+        "password": "654321",
+        "user_id": "1",
+        "last_name": "S",
+        "first_name": "Siva"
+    }, {
+        "email": "chandran@gmail.com",
+        "password": "123456",
+        "user_id": "2",
+        "last_name": "S",
+        "first_name": "Chandran"
+    }, {
+        "email": "siva4avis@gmail.com",
+        "password": "admin@123",
+        "user_id": "3",
+        "last_name": "Siva",
+        "first_name": "Siva"
+    }, {
+        "email": "siva4siva@gmail.com",
+        "password": "Admin@123",
+        "user_id": "4",
+        "last_name": "Siva",
+        "first_name": "Siva"
+    }]
+}
