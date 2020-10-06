@@ -8,9 +8,9 @@
     "box_type_roundrect": true,
     "text": "#151515",
     "placeholder_color": "#151515",
-    "username": "Username",
+    "username": "Email",
     "password": "Password",
-    "placeholder_name": "Username",
+    "placeholder_name": "Enter your email",
     "placeholder_password": "Password",
     "button_text_color": "#FFFFFF",
     "button_color": "#4B7BEC",
@@ -40,5 +40,11 @@
         "user_id": "4",
         "last_name": "Siva",
         "first_name": "Siva"
+    }, {
+        "email": "test@gmail.com",
+        "password": "admin123",
+        "user_id": "5",
+        "last_name": "Test",
+        "first_name": "User"
     }]
 }
